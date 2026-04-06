@@ -22,10 +22,8 @@ This project is a practice exercise in building a full webpage from a provided d
 
 ## Live Preview
 
-Add your GitHub Pages link here later:
-
-[Live Demo](https://github.com/joremjay/odin-landing-page)
+[Live Demo](https://joremjay.github.io/odin-landing-page/)
 
 ## Author
 
-- GitHub: [yourusername](https://github.com/joremjay)
+- GitHub: [joremjay](https://github.com/joremjay)
